@@ -4,8 +4,8 @@ const express = require('express')
 const bodyParser = require('body-parser')
 const app = express();
 
-app.use(bodyParser.urlencoded({ extended: false }));
 // parse application/json
+app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 app.get('/', function (req, res) {
@@ -35,6 +35,6 @@ app.delete('/usuario', function (req, res) {
   res.json('DELETE USUARIO');
 })
  
-app.listen(3000, () => {
+app.listen(process.env.PORT, () => {
     console.log('Escuchando puerto ', process.env.PORT);
 })
