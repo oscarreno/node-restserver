@@ -21,8 +21,3 @@ else
 
 process.env.URLDB = urlDB;
 
-// Mongo ATLAS
-// user: oscar
-// pwd: LaContraseñaMásPerrona125
-// cadena de conexion mongodb+srv://oscar:<password>@cluster0-y4d0q.mongodb.net/test    
-//  mongo "mongodb+srv://cluster0-y4d0q.mongodb.net/test" --username oscar
