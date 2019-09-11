@@ -1,0 +1,65 @@
+[33mcommit 6710ea2c688fa0abef99aaa8966d29235c5951f9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m)[m
+Author: oscarreno <oscarreno@gmail.com>
+Date:   Mon Sep 2 12:36:18 2019 -0500
+
+    Variable de entorno MONGO bis
+
+[33mcommit 34936456ade85df4672dfdb37569108565efef19[m[33m ([m[1;33mtag: v0.0.4[m[33m)[m
+Author: oscarreno <oscarreno@gmail.com>
+Date:   Mon Sep 2 12:32:27 2019 -0500
+
+    Variable de entorno MONGO
+
+[33mcommit e9eb9f8ad7d6ac64cdbcecd5c9c36a47c46fc2d1[m[33m ([m[1;33mtag: v0.0.3[m[33m)[m
+Author: oscarreno <oscarreno@gmail.com>
+Date:   Mon Sep 2 12:01:06 2019 -0500
+
+    RestServer  usuario
+
+[33mcommit 8a1d1a8bdc0fe86ee1bacd306c83aaf3f10f45aa[m
+Author: oscarreno <oscarreno@gmail.com>
+Date:   Wed Aug 28 16:21:02 2019 -0500
+
+    primer commit
+
+[33mcommit 7686cf9de5dc7956c8212e3a38b95cabd2ebb0ef[m
+Author: oscarreno <oscarreno@gmail.com>
+Date:   Wed Aug 28 12:52:31 2019 -0500
+
+    primer commit
+
+[33mcommit a1e1efe85d1ab63ff066d15226222602f071f4ba[m
+Author: oscarreno <oscarreno@gmail.com>
+Date:   Tue Aug 27 18:43:34 2019 -0500
+
+    npm listo
+
+[33mcommit 97e1d175d1cdc51a5ef78a41888eb9f6929fa7fe[m
+Author: oscarreno <oscarreno@gmail.com>
+Date:   Tue Aug 27 18:27:33 2019 -0500
+
+    npm listo
+
+[33mcommit 0a6810155e77d1934568d6dbea691c26a59a780d[m
+Author: oscarreno <oscarreno@gmail.com>
+Date:   Tue Aug 13 18:36:50 2019 -0500
+
+    segundo intento de start
+
+[33mcommit c7ccc232c6c5eaec1e269e17ce52508d1c7ccc84[m
+Author: oscarreno <oscarreno@gmail.com>
+Date:   Tue Aug 13 18:29:12 2019 -0500
+
+    segundo intento de start
+
+[33mcommit 45a0c49edcec507d9913e6b7b91f1dbe74489dac[m
+Author: oscarreno <oscarreno@gmail.com>
+Date:   Tue Aug 13 18:20:43 2019 -0500
+
+    NPM start listo
+
+[33mcommit 4b91b54b6affbe094f54a4cebbafaf1ecc7cb460[m
+Author: oscarreno <oscarreno@gmail.com>
+Date:   Tue Aug 13 17:59:51 2019 -0500
+
+    commit inicial
