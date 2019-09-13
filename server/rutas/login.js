@@ -30,7 +30,6 @@ app.post('/login', (req, res) => {
                     message: 'Usuario o (contraseña) incorrectos'
                 }
             });
-
         }
 
         let token = jwt.sign({

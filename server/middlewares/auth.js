@@ -14,7 +14,6 @@ let verificarToken = (req, res, next) => {
                     message: 'Token no válido',
                 }
             });
-
         }
         req.usuario = payload.usuario;
         next();
